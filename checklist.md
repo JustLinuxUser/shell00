@@ -18,3 +18,6 @@ done
 
 Ex 06
 done
+
+Ex 07
+done
