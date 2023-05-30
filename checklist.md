@@ -15,3 +15,6 @@ done
 
 Ex 05
 done
+
+Ex 06
+done
