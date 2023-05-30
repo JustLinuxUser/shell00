@@ -9,3 +9,9 @@ done, has an argument
 
 Ex 03
 done
+
+Ex 04
+done
+
+Ex 05
+done
